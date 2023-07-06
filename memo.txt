@@ -1,0 +1,12 @@
+1. install react query
+yarn add react-redux @reduxjs/toolkit
+
+2. configure redux
+
+3. install axios
+
+4. json server installation & test
+yarn add json-server
+yarn json-server --watch db.json --port 3001
+
+5. 
